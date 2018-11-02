@@ -1,0 +1,19 @@
+{
+  "name": "vode",
+  "version": "1.0.0",
+  "description": "The best Vue + Node web application boilerplate.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadamita/VodeJs.git"
+  },
+  "author": "Joseph Adamita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadamita/VodeJs/issues"
+  },
+  "homepage": "https://github.com/jadamita/VodeJs#readme"
+}
